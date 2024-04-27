@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="feels_like">Feels like: %1$s</string>
+    <string name="my_location">My location</string>
+    <string name="high">High:%1$s</string>
+    <string name="low">Low:%1$s</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="visibility">Visibility</string>
+    <string name="today">Today</string>
+    <string name="_7_days"><![CDATA[7 days >]]></string>
+    <string name="degree">%d &#xb0;</string>
+</resources>
